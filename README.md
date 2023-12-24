@@ -6,7 +6,7 @@
 
 [lab3](lab3/)
 
-[lab3](lab4/)
+[lab4](lab4/)
 
 
 ![](https://github.com/LexeyPivloy/big_dacha/blob/main/gif.gif)
